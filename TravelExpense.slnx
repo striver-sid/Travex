@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TravelExpense.Api/TravelExpense.Api.csproj" />
+  <Project Path="TravelExpense.Application/TravelExpense.Application.csproj" />
+  <Project Path="TravelExpense.Domain/TravelExpense.Domain.csproj" />
+  <Project Path="TravelExpense.Infrastructure/TravelExpense.Infrastructure.csproj" />
+  <Project Path="TravelExpense.Tests/TravelExpense.Tests.csproj" />
+</Solution>
